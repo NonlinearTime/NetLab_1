@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/LoginWindow/aaa.png</file>
+        <file>Resources/LoginWindow/arrowback.png</file>
+        <file>Resources/LoginWindow/arrowDown.png</file>
+        <file>Resources/LoginWindow/arrowRight.png</file>
+        <file>Resources/LoginWindow/back.gif</file>
+        <file>Resources/LoginWindow/backgound.gif</file>
+        <file>Resources/LoginWindow/checkbox.png</file>
+        <file>Resources/LoginWindow/drop_down_Button.png</file>
+        <file>Resources/LoginWindow/flicker.png</file>
+        <file>Resources/LoginWindow/foot.png</file>
+        <file>Resources/LoginWindow/head.png</file>
+        <file>Resources/LoginWindow/HeadImage.png</file>
+        <file>Resources/LoginWindow/HeadImage_small.png</file>
+        <file>Resources/LoginWindow/keyboard.png</file>
+        <file>Resources/LoginWindow/keyboard_hover.png</file>
+        <file>Resources/LoginWindow/keyboard_press.png</file>
+        <file>Resources/LoginWindow/land.png</file>
+        <file>Resources/LoginWindow/list.css</file>
+        <file>Resources/LoginWindow/LoginWindow.css</file>
+        <file>Resources/LoginWindow/more_accountlogin.png</file>
+        <file>Resources/MyTitle/arrowback.png</file>
+        <file>Resources/MyTitle/close.png</file>
+        <file>Resources/MyTitle/close1.png</file>
+        <file>Resources/MyTitle/close11.png</file>
+        <file>Resources/MyTitle/max.png</file>
+        <file>Resources/MyTitle/min.png</file>
+        <file>Resources/MyTitle/min1.png</file>
+        <file>Resources/MyTitle/more_accountlogin.png</file>
+        <file>Resources/MyTitle/restore.png</file>
+        <file>Resources/LoginWindow/LoginState/state_away.png</file>
+        <file>Resources/LoginWindow/LoginState/state_busy.png</file>
+        <file>Resources/LoginWindow/LoginState/state_hide.png</file>
+        <file>Resources/LoginWindow/LoginState/state_notdisturb.png</file>
+        <file>Resources/LoginWindow/LoginState/state_online.png</file>
+        <file>Resources/LoginWindow/LoginState/state_Qme.png</file>
+        <file>Resources/MyTitle.css</file>
+        <file>Resources/LoginWindow/qqshow.png</file>
+        <file>Resources/LoginWindow/showroot.png</file>
+        <file>Resources/LoginWindow/headmy.png</file>
+        <file>Resources/Icon/folder.png</file>
+        <file>Resources/Icon/folder.svg</file>
+        <file>Resources/Icon/folder (1).svg</file>
+        <file>Resources/Icon/font-symbol-of-letter-a.svg</file>
+        <file>Resources/Icon/microphone.svg</file>
+        <file>Resources/Icon/picture.svg</file>
+        <file>Resources/Icon/screenshot.svg</file>
+        <file>Resources/Icon/smile.svg</file>
+    </qresource>
+</RCC>
